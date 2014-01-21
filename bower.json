@@ -1,0 +1,23 @@
+{
+    "name": "Events.js",
+    "version": "dev",
+    "description": "Event dispatcher that uses Container.js",
+    "main": "Events.js",
+    "keywords": [
+        "dispatcher",
+        "events.js",
+        "events",
+        "manager"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "container.js": "https://github.com/danjamin/Container.js.git#master"
+    }
+}
